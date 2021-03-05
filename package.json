@@ -1,0 +1,11 @@
+{
+  "name": "get-prime",
+  "version": "1.0.7",
+  "description": "some prime number related functions",
+  "main": "index.js",
+  "repository": "https://github.com/microStationCorp/getPrimes.git",
+  "author": "sherlock",
+  "license": "MIT",
+  "private": false,
+  "type": "module"
+}
