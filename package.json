@@ -1,6 +1,6 @@
 {
   "name": "get-prime",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "some prime number related functions",
   "main": "index.js",
   "repository": "https://github.com/microStationCorp/getPrimes.git",
